@@ -1,7 +1,12 @@
 title: Clement Fernando
-description: Bio
+description: A curious programmer
 url: "https://clementfernando.github.io"
 baseurl: ""
+
+social:
+  github: mrclemrkz
+  linkedin: clementfernando
+  twitter: mrclemrkz
 
 plugins:
   - jekyll-feed
